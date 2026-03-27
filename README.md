@@ -140,12 +140,10 @@ Main KPIs:
 👉 Provides a **high-level summary of business performance**
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cf7f5f49-31bb-4f5c-9ec3-4fe8ed0d7bf0" />
+  <img src="https://github.com/user-attachments/assets/cf7f5f49-31bb-4f5c-9ec3-4fe8ed0d7bf0"
        alt="Supply Chain"
        width="1200">
 </p>
-
----
 
 ## 2️⃣ Shipping & Delivery Analysis
 
