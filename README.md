@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2c2780fb-1fbc-43b7-b17e-ebc94c3093c7"
        alt="Supply Chain"
-       width="800">
+       width="1200">
 </p>
 
 ---
