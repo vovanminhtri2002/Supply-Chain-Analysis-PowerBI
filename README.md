@@ -27,6 +27,7 @@
 - [3️⃣ Profit & Sales Analysis](#3️⃣-profit--sales-analysis)
 - [4️⃣ Product / Category Analysis](#4️⃣-product--category-analysis)
 - [💡 Key Insights](#-key-insights)
+- [🚀 Business Recommendations](#-business-recommendations)
 - [🧠 Key DAX Measures](#-key-dax-measures)
 - [📁 Project Structure](#-project-structure)
 - [🔮 Future Improvements](#-future-improvements)
@@ -141,9 +142,11 @@ Main KPIs:
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/cf7f5f49-31bb-4f5c-9ec3-4fe8ed0d7bf0"
-       alt="Supply Chain"
+       alt="Overview Dashboard"
        width="1200">
 </p>
+
+---
 
 ## 2️⃣ Shipping & Delivery Analysis
 
@@ -157,7 +160,7 @@ Focus on logistics:
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f31d44b9-93cb-498e-b821-0cd968876e8d"
-       alt="Supply Chain"
+       alt="Shipping Analysis Dashboard"
        width="1200">
 </p>
 
@@ -175,7 +178,7 @@ Analyze business performance:
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/36cbf992-9b85-4ef8-93f8-b8433962ca94"
-       alt="Supply Chain"
+       alt="Profit Analysis Dashboard"
        width="1200">
 </p>
 
@@ -193,7 +196,7 @@ Analyze product performance:
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8f3839ab-ef27-4c12-aeb8-82f8ef7bfdb9"
-       alt="Supply Chain"
+       alt="Product Analysis Dashboard"
        width="1200">
 </p>
 
@@ -216,6 +219,15 @@ Analyze product performance:
 🔥 **4. Product categories show different profitability levels**
 
 ➡️ Suggestion: Prioritize high-profit categories  
+
+---
+
+## 🚀 Business Recommendations
+
+- Optimize Standard Class shipping to reduce late deliveries  
+- Improve logistics performance in high-delay regions  
+- Focus on high-profit product categories  
+- Reduce delivery delay to improve customer satisfaction
 
 ---
 
