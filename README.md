@@ -7,6 +7,12 @@
   <img src="https://img.shields.io/badge/Visualization-DAX%20%26%20PowerQuery-green">
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2c2780fb-1fbc-43b7-b17e-ebc94c3093c7"
+       alt="Supply Chain"
+       width="800">
+</p>
+
 ---
 
 ## 📖 Table of Contents
