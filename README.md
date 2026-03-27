@@ -67,7 +67,7 @@ The dashboard helps businesses answer key questions:
 
 ## 📂 Data Source
 
-- Dataset: **DataCo Global Supply Chain Dataset**
+- Dataset: **[DataCo Global Supply Chain Dataset](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis)**
 
 - Source: Kaggle
 
@@ -201,3 +201,74 @@ Analyze product performance:
 
 ```DAX
 Total Orders = COUNTROWS(Data)
+```
+
+```DAX
+Total Sales = SUM(Data[sales])
+```
+
+```DAX
+Total Profit = SUM(Data[order_profit_per_order])
+```
+
+```DAX
+Late Orders =
+CALCULATE(
+    COUNTROWS(Data),
+    Data[is_late_flag] = 1
+)
+```
+
+```DAX
+On-time Orders =
+CALCULATE(
+    COUNTROWS(Data),
+    Data[is_late_flag] = 0
+)
+```
+
+```DAX
+Late Delivery Rate (%) =
+DIVIDE([Late Orders], [Total Orders])
+```
+
+```DAX
+On-time Delivery Rate (%) =
+DIVIDE([On-time Orders], [Total Orders])
+```
+
+---
+
+## 📁 Project Structure
+
+```bash
+├── powerbi/
+│   └── SupplyChain_Dashboard.pbix
+├── data/
+│   └── DataCoSupplyChainDataset.csv
+├── notebook/
+│   └── EDA_SupplyChain.ipynb
+├── images/
+│   └── dashboard.png
+└── documents/
+    └── report.docx
+```
+
+---
+
+## 🔮 Future Improvements
+
+Build **machine learning** model to predict late delivery
+Integrate real-time logistics data
+Deploy dashboard to **Power BI Service**
+Create **automated alerts for late deliveries**
+
+---
+
+## 👨‍💻 Author
+
+Name: **Võ Văn Minh Trí**
+
+Tools: **Power BI, Python, Pandas, Seaborn**
+
+---
