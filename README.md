@@ -155,6 +155,12 @@ Focus on logistics:
 
 👉 Helps identify **delivery inefficiencies**
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f31d44b9-93cb-498e-b821-0cd968876e8d"
+       alt="Supply Chain"
+       width="1200">
+</p>
+
 ---
 
 ## 3️⃣ Profit & Sales Analysis
@@ -167,6 +173,12 @@ Analyze business performance:
 
 👉 Identifies **high-performing markets**
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/36cbf992-9b85-4ef8-93f8-b8433962ca94"
+       alt="Supply Chain"
+       width="1200">
+</p>
+
 ---
 
 ## 4️⃣ Product / Category Analysis
@@ -178,6 +190,12 @@ Analyze product performance:
 - Category comparison  
 
 👉 Helps optimize **product strategy**
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8f3839ab-ef27-4c12-aeb8-82f8ef7bfdb9"
+       alt="Supply Chain"
+       width="1200">
+</p>
 
 ---
 
